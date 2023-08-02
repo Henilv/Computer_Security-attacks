@@ -8,4 +8,4 @@ Project lead :  Wenliang Du, Professor
 Department of Electrical Engineering & Computer Science
 Syracuse University
 
-[SEED LABS](https://seedsecuritylabs.org)https://seedsecuritylabs.org)
+[SEED labs](https://seedsecuritylabs.org)
